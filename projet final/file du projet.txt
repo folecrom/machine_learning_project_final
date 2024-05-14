@@ -1,0 +1,15 @@
+question global , pq le cout de l'electrcité a autaut augmenter : 
+
+question tertiaire : 
+
+- comment la connsomation des gens a t-elle evoluer au fur et a mesure des années ? 
+- la production suit-elle la demande ?
+- evolution de la production d'electricité en fonction es matieres premieres ...
+- le marché a t-il evoluer depuis les années 2000 ? 
+
+source utile : 
+- https://www.hellowatt.fr/contrat-gaz-naturel/evolution-prix-gaz#:~:text=Actuellement%2C%20le%20prix%20rep%C3%A8re%20moyen,cuisson%20et%20l'eau%20chaude.
+
+
+trello : 
+https://trello.com/b/grf2cg8i/machine-leraning-projet
